@@ -4,4 +4,4 @@
 <img src="https://raw.githubusercontent.com/equipeatlas/equipeatlas/main/mantis.png" width="100px" height="100px" align="right" />
 > A curated list of awesome READMEs
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+Somos a equipe Atlas e temos como objetivo conectar as ideias inovadoras com empresas ou pessoas de interesse em inovar e sair na frente no mercado de trabalho. 
